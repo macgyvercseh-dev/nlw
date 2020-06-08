@@ -10,10 +10,6 @@ const connection = knex({ // criamos uma variavel consta para armazenar os dados
     useNullAsDefault: true,
 })
 
-
-
-
-
 export  default connection;
 
 
